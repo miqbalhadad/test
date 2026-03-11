@@ -1,19 +1,30 @@
-# test
+# Proyek Pengujian (Test Project)
 
-Halo! Ini repository cuma buat testing-testing aja sih. 
-Jangan dianggap serius ya, hehe.
+Selamat datang di repositori pengujian ini. Repositori ini digunakan untuk keperluan eksperimen, pengembangan fitur baru, dan pengujian kode secara internal.
 
-## Apa ini?
-Proyek kecil-kecilan buat nyoba fitur-fitur baru atau sekedar eksperimen kode. 
+## Deskripsi
+Proyek ini berfungsi sebagai wadah untuk mengeksplorasi berbagai teknologi dan metodologi pengembangan perangkat lunak. Fokus utamanya adalah pada pengujian integrasi dan implementasi fitur eksperimental.
 
-## Cara Pakai
-Cukup clone aja repo ini:
+## Fitur Utama
+- **Eksperimen Kode**: Implementasi algoritma dan logika pemrograman terbaru.
+- **Pengujian Fitur**: Tempat pengujian fitur-fitur baru sebelum diimplementasikan ke proyek utama.
+- **Dokumentasi**: Catatan teknis mengenai hasil pengujian dan eksperimen.
+
+## Cara Penggunaan
+Untuk mulai menggunakan repositori ini, silakan lakukan kloning pada mesin lokal Anda:
+
 ```bash
 git clone https://github.com/miqbalhadad/test.git
 ```
 
-## Kontribusi
-Kalau mau iseng-iseng nambahin sesuatu, bebas kok! Buka aja PR atau issue.
+Setelah itu, Anda dapat meninjau kode sumber atau melakukan modifikasi sesuai kebutuhan pengujian Anda.
 
-Sekian dan terima kasih!
-- Muhammad Iqbal Hadad
+## Kontribusi
+Kami sangat terbuka terhadap masukan dan kontribusi. Jika Mas ingin memberikan saran atau perbaikan, silakan buat *Pull Request* atau buka *Issue* baru. Kami sangat menghargai setiap kontribusi yang diberikan.
+
+## Lisensi
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+Salam hangat,
+**Muhammad Iqbal Hadad**
