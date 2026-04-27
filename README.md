@@ -11,20 +11,32 @@ Proyek ini berfungsi sebagai wadah untuk mengeksplorasi berbagai teknologi dan m
 - **Dokumentasi**: Catatan teknis mengenai hasil pengujian dan eksperimen.
 
 ## Cara Penggunaan
-Untuk mulai menggunakan repositori ini, silakan lakukan kloning pada mesin lokal Anda:
+Untuk mulai menggunakan repositori ini, silakan ikuti langkah-langkah instalasi di bawah:
 
-```bash
-git clone https://github.com/miqbalhadad/test.git
-```
+## Prasyarat
+Sebelum memulai, pastikan Anda telah menginstal:
+- [Git](https://git-scm.com/)
 
-Setelah itu, Anda dapat meninjau kode sumber atau melakukan modifikasi sesuai kebutuhan pengujian Anda.
+## Instalasi
+Ikuti langkah-langkah berikut untuk meng-clone repository ini:
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/miqbalhadad/test.git
+   ```
+2. Masuk ke direktori proyek:
+   ```bash
+   cd test
+   ```
+
+## Cara Pakai
+Setelah meng-clone, Anda dapat mulai mengeksplorasi file yang ada atau menambahkan eksperimen baru Anda sendiri.
 
 ## Kontribusi
-Kami sangat terbuka terhadap masukan dan kontribusi. Jika Mas ingin memberikan saran atau perbaikan, silakan buat *Pull Request* atau buka *Issue* baru. Kami sangat menghargai setiap kontribusi yang diberikan.
+Kalau mau iseng-iseng nambahin sesuatu, bebas kok! Buka aja PR atau issue. Kami sangat menghargai kontribusi sekecil apa pun.
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
-Salam hangat,
-**Muhammad Iqbal Hadad**
+Dibuat dengan ❤️ oleh Muhammad Iqbal Hadad
