@@ -1,15 +1,17 @@
-# test
+# Proyek Pengujian (Test Project)
 
-Halo! Ini repository cuma buat testing-testing aja sih. 
-Jangan dianggap serius ya, hehe.
+Selamat datang di repositori pengujian ini. Repositori ini digunakan untuk keperluan eksperimen, pengembangan fitur baru, dan pengujian kode secara internal.
 
-## Apa ini?
-Proyek kecil-kecilan buat nyoba fitur-fitur baru atau sekedar eksperimen kode. 
+## Deskripsi
+Proyek ini berfungsi sebagai wadah untuk mengeksplorasi berbagai teknologi dan metodologi pengembangan perangkat lunak. Fokus utamanya adalah pada pengujian integrasi dan implementasi fitur eksperimental.
 
 ## Fitur Utama
-- Repository untuk pengujian fungsionalitas.
-- Eksperimen fitur-fitur baru.
-- Media belajar kolaborasi menggunakan Git.
+- **Eksperimen Kode**: Implementasi algoritma dan logika pemrograman terbaru.
+- **Pengujian Fitur**: Tempat pengujian fitur-fitur baru sebelum diimplementasikan ke proyek utama.
+- **Dokumentasi**: Catatan teknis mengenai hasil pengujian dan eksperimen.
+
+## Cara Penggunaan
+Untuk mulai menggunakan repositori ini, silakan ikuti langkah-langkah instalasi di bawah:
 
 ## Prasyarat
 Sebelum memulai, pastikan Anda telah menginstal:
@@ -32,6 +34,9 @@ Setelah meng-clone, Anda dapat mulai mengeksplorasi file yang ada atau menambahk
 
 ## Kontribusi
 Kalau mau iseng-iseng nambahin sesuatu, bebas kok! Buka aja PR atau issue. Kami sangat menghargai kontribusi sekecil apa pun.
+
+## Lisensi
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 Dibuat dengan ❤️ oleh Muhammad Iqbal Hadad
