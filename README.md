@@ -39,4 +39,4 @@ Kalau mau iseng-iseng nambahin sesuatu, bebas kok! Buka aja PR atau issue. Kami 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
-Dibuat dengan ❤️ oleh Muhammad Iqbal Hadad
+Dibuat dengan ❤️ oleh Muhammad Iqbal Hadad 🦈
